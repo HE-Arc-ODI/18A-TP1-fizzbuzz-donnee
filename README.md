@@ -1,4 +1,4 @@
-# TP1-fizzbuzz-donnee
+# Fizzbuzz donnee
 
 Le Fizz Buzz est un jeu de groupe pour enseigner les divisions aux enfants. Assis en cercle, ils comptent chacun leur tour en remplaçant chaque nombre divisible par trois par le mot « Fizz » et chaque nombre divisible par 5 par le mot « Buzz ». Les nombres divisibles par 3 et 5 sont deviennent des FizzBuzz Les joueurs qui hésitent ou qui se trompent sont éliminés du jeu.
 Une partie de FizzBuzz commencerait comme cela : 
